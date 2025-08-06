@@ -1,0 +1,9 @@
+unstructured[all-docs]
+pytesseract
+unstructured-pytesseract
+pillow
+pydantic
+lxml
+matplotlib
+python-dotenv
+ipywidgets
