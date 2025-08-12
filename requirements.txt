@@ -1,3 +1,5 @@
+langchain-core
+langchain-huggingface
 unstructured[all-docs]
 pytesseract
 unstructured-pytesseract
